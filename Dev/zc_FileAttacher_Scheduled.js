@@ -10,7 +10,7 @@
  * @param {String} type Context Types: scheduled, ondemand, userinterface, aborted, skipped
  * @returns {Void}
  */
-//added test comment
+//added test  comment
 function zc_FileAttacher_ScheduledScript(type) {
 	var columns = [];
 	columns[columns.length] = new nlobjSearchColumn('custrecordzc_file_attacher_file_id');
